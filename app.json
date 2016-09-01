@@ -1,0 +1,12 @@
+{
+  "name": "Drupal Heroku with composer",
+  "description": "TODO: Add a short description about Drupal Heroku",
+  "keywords": [
+    "heroku",
+    "web",
+    "cms",
+    "composer"
+  ],
+  "repository": "https://github.com/dcornu-cap/drupal-heroku-composer",
+  "addons": ["heroku-postgresql:hobby-dev"]
+}
