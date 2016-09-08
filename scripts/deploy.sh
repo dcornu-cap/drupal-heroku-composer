@@ -6,3 +6,4 @@ path=`pwd`
 
 echo $path
 ls -al vendor
+chmod -R 755 *
